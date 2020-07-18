@@ -1,6 +1,6 @@
-# app_2_1
+# Basic Expense Tracker
 
-A new Flutter project.
+An app which tracks expenses in the most easy and minimal way.
 
 ## Getting Started
 
